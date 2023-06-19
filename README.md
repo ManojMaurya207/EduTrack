@@ -13,7 +13,7 @@ Welcome to the EduTrack repository, a comprehensive and user-friendly School Man
 
 To get started with EduTrack, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/your-username/EduTrack.git`
+1. Clone the repository: `git clone https://github.com/ManojMaurya207/EduTrack.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Launch the application: `python main.py`
 4. Access the system using one of the login types: Admin, Teacher, or Student.
