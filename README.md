@@ -1,13 +1,14 @@
-
 # EduTrack Repository: School Management System
 
 Welcome to the EduTrack repository, a comprehensive and user-friendly School Management System built with Python and featuring a visually appealing graphical user interface (GUI). EduTrack is designed to streamline and enhance administrative tasks within educational institutions.
 
-# Key Features
+## Key Features
 
 - **Admissions and Removal**: Effortlessly admit new students and teachers into the system and remove them when necessary.
 - **Attendance Tracking**: Record attendance with ease for teachers, while students can conveniently access their attendance records.
 - **Complaint System**: Empower students to submit complaints and concerns directly through the user-friendly interface.
+- **Grading and Result Calculation**: Teachers can enter grades, and EduTrack will automatically calculate student results. Students can view, download, or print their results.
+- **Notes Management**: Teachers can upload notes for different subjects, and students can easily download or print the notes for their studies.
 
 ## Getting Started
 
